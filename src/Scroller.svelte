@@ -54,7 +54,7 @@
     }
 
     .button {
-        background-color: #007bff;
+        background-color: orange;
         color: white;
         border: none;
         padding: 10px 15px;
@@ -64,13 +64,14 @@
     }
 
     .button:active {
-        background-color: #0056b3;
+        background-color: orangered;
     }
 
     .slider {
         writing-mode: bt-lr; /* Vertical slider */
         -webkit-appearance: slider-vertical;
         appearance: slider-vertical;
+        accent-color: orange;
         height: 200px;
         width: 20px;
         margin: 10px 0;

@@ -50,6 +50,7 @@
         flex-direction: column;
         align-items: center;
         gap: 10px;
+        z-index: 10000;
     }
 
     .button {

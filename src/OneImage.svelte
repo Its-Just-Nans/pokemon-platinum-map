@@ -45,7 +45,7 @@
 
 <img
     bind:this={img}
-    src={`/bulbapedia/${id}`}
+    src={`./bulbapedia/${id}`}
     alt={key}
     class="map-image"
     {id}
